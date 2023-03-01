@@ -1,0 +1,56 @@
+
+M	java:S106"9Replace this use of System.out or System.err by a logger.(—žô
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¨ˆéÚ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ñ¸¶ßúÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ßâŽÿøÿÿÿÿ
+S	java:S106#"9Replace this use of System.out or System.err by a logger.(™Ý½Œÿÿÿÿÿ
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ
+M	java:S106,"9Replace this use of System.out or System.err by a logger.(—žô
+S	java:S1062"9Replace this use of System.out or System.err by a logger.(èÀÂÊýÿÿÿÿ
+S	java:S1066"9Replace this use of System.out or System.err by a logger.(™Ý½Œÿÿÿÿÿ
+S	java:S1068"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ
+N	java:S106="9Replace this use of System.out or System.err by a logger.(öÚÝò
+S	java:S106B"9Replace this use of System.out or System.err by a logger.(¿¾ìýúÿÿÿÿ
+B
+java:S1125G"'Remove the unnecessary boolean literal.(˜Œ¡éþÿÿÿÿ
+N	java:S106H"9Replace this use of System.out or System.err by a logger.(Ðù“Ç
+S	java:S106V"9Replace this use of System.out or System.err by a logger.(ÇŸÙùÿÿÿÿ
+S	java:S106Y"9Replace this use of System.out or System.err by a logger.(«Ýïúÿÿÿÿ
+N	java:S106e"9Replace this use of System.out or System.err by a logger.(ÿ¾Ìö
+N	java:S106i"9Replace this use of System.out or System.err by a logger.(Œ‹…Î
+S	java:S106z"9Replace this use of System.out or System.err by a logger.(Å­ËÝúÿÿÿÿ
+E
+java:S1197"*Move the array designators [] to the type.(¯˜ðøÿÿÿÿÿ
+T	java:S106ƒ"9Replace this use of System.out or System.err by a logger.(Ž¯Îìüÿÿÿÿ
+T	java:S106Œ"9Replace this use of System.out or System.err by a logger.(¶ù§ãøÿÿÿÿ
+O	java:S106"9Replace this use of System.out or System.err by a logger.(•¯Ú
+T	java:S106"9Replace this use of System.out or System.err by a logger.(ª‡õ‘úÿÿÿÿ
+T	java:S106‘"9Replace this use of System.out or System.err by a logger.(¬ŠÅ¢üÿÿÿÿ
+7	java:S131“""Add a default case to this switch.(€ä¿;
+Z
+java:S6208•"CMerge the previous cases into this one using comma-separated label.(Ë–Éè
+Z
+java:S6208™"CMerge the previous cases into this one using comma-separated label.(‡—Ÿ
+Z
+java:S6208"CMerge the previous cases into this one using comma-separated label.(™íŽ
+_
+java:S6208¡"CMerge the previous cases into this one using comma-separated label.(¾ïßÑûÿÿÿÿ
+Z
+java:S6208¥"CMerge the previous cases into this one using comma-separated label.(Ž§ûÎ
+Z
+java:S6208©"CMerge the previous cases into this one using comma-separated label.(ÍëðÍ
+_
+java:S6208­"CMerge the previous cases into this one using comma-separated label.(—™´ùþÿÿÿÿ
+_
+java:S6208±"CMerge the previous cases into this one using comma-separated label.(“àÕôÿÿÿÿÿ
+_
+java:S6208µ"CMerge the previous cases into this one using comma-separated label.(ŒøÓÕÿÿÿÿÿ
+[
+java:S1192"FDefine a constant instead of duplicating this literal "empty" 4 times.(˜†Þ"
+\
+java:S1192"GDefine a constant instead of duplicating this literal "cabin " 4 times.(—žô
+k	java:S117>"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µÝÒ†ùÿÿÿÿ
+0
+java:S1220""Move this file to a named package.
+^
+java:S2095P"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(ú¿‡¢
